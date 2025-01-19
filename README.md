@@ -12,10 +12,10 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-**DESCRIPTION OF TASK **:
+#DESCRIPTION OF TASK :
 
 This code provides a clean, responsive design for an e-learning platform. It includes three main sections: a list of available courses, an about us description, and a contact form for user inquiries. Basic interaction is enabled using JavaScript for course enrollment, and the website layout is fully styled using internal CSS, ensuring good aesthetics and usability.
 
+#OUTPUT:
 
-
-**OUTPUT**:
+https://github.com/user-attachments/assets/2539b35a-c422-4c8f-b930-4be8bd8e1d6f
